@@ -16,8 +16,8 @@ function ListItems({ title, slug }) {
       })
     );
     if (data !== null) {
-      console.log(data.searchLists.items[0].listItems.items);
-      setItems(data.searchLists.items[0].listItems.items);
+      // console.log(data.searchLists.items[0].listItems.items);
+      // setItems(data.searchLists.items[0].listItems.items);
     }
   }
   useEffect(() => {
