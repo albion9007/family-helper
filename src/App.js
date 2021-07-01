@@ -1,11 +1,9 @@
-import "./App.css";
+import React from "react";
+
+import Main from "./Main";
 
 function App() {
-  return (
-    <div className="App">
-      <h1>Hello to Amplify</h1>
-    </div>
-  );
+  return <Main />;
 }
 
 export default App;

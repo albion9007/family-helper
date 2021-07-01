@@ -10,6 +10,11 @@
       "StackName": "amplify-familyhelper-dev-141639",
       "StackId": "arn:aws:cloudformation:us-east-1:514064659756:stack/amplify-familyhelper-dev-141639/34208c30-d3e2-11eb-99d1-0a78092beb51",
       "AmplifyAppId": "duhim66n20ejj"
+    },
+    "categories": {
+      "auth": {
+        "familyhelper7937c74b": {}
+      }
     }
   }
 }
